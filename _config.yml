@@ -31,8 +31,6 @@ domain: https://mxc42.github.io/
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
