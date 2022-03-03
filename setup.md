@@ -4,13 +4,13 @@ title: "Setup"
 permalink: /setup/
 ---
 
-# Transmitter
+# Base
 
-The transmitter consists of an LED, micro usb port, and antenna. 
+The base consists of an LED, micro usb port, and antenna. 
 
-Before plugging the Transmitter in, ensure the antenna is attached. Never supply power to the device without the antenna attached, as this can damage the radio module.
+Before plugging the base in, ensure the antenna is attached. Never supply power to the device without the antenna attached, as this can damage the radio module.
 
-The LED is an indicator for the timer. Further explanation can be found [here](/starter_indicator_docs/transmitter).
+The LED is an indicator for the timer. Further explanation can be found [here](/starter_indicator_docs/base).
 
 # Remote
 
@@ -22,11 +22,11 @@ The device is off when the power switch is closest to the exterior, and on when 
 
 # Computer
 
-To operate, use a micro USB cable to connect the transmitter to the computer used for timing. The device should show up as a COM port in Windows Device Manager. Drivers will automatically install on Windows 10/11, you may need to install drivers manually if you are on Windows 7/8 - [Adafruit Feather Drivers](https://github.com/adafruit/Adafruit_Windows_Drivers/releases).
+To operate, use a micro USB cable to connect the base to the computer used for timing. The device should show up as a COM port in Windows Device Manager. Drivers will automatically install on Windows 10/11, you may need to install drivers manually if you are on Windows 7/8 - [Adafruit Feather Drivers](https://github.com/adafruit/Adafruit_Windows_Drivers/releases).
 
 Download [simple_redlight.lss](simple_redlight.lss) to your system's Lynx directory.
 
-Once you have the lss file copied and the device shows up in Device Manager, open FinishLynx and create a new scoreboard for the device. FinishLynx must be opened after the device is attached. If FinishLynx was running before attaching the device, you must close and reopen FinishLynx.
+Once you have the lss file copied and the device shows up in Device Manager, open FinishLynx and create a new scoreboard for the device. FinishLynx must be opened after the device is attached. If FinishLynx was running before attaching the device, you must close and reopen FinishLynx. You may also have to close and reopen FinishLynx after creating the new scoreboard.
 
 Scoreboard settings should use the COM port corresponding to the device as shown in Device Manager. 
 
@@ -43,4 +43,3 @@ Pause Time: 3.0  Offset: 0.000
 
 Results: Off
 ```
-
