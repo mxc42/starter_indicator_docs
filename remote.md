@@ -12,7 +12,7 @@ The remote has two indicators, and LED and a flip disk. When a race is armed, th
 
 ## Power
 
-The remote is equipped with a battery that gives around 90 hours of runtime. A power switch and micro USB port can be found on the bottom of the device after sliding the cover off. The image below shows the switch in "on" position. Sliding the switch to the left will power off the device. There is no standby mode, ensure you power off the device when storing, as it will drain the battery if left on. The USB port is used for charging. A small orange LED inside the case will light up when charging, and dim when charging is complete.
+The remote is equipped with a battery that gives around 90 hours of runtime. A power switch and micro USB port can be found on the bottom of the device after sliding the cover off. The image below shows the switch in "on" position. Sliding the switch to the left will power off the device. There is no standby mode, ensure you power off the device when storing, as it will drain the battery if left on. The USB port is used for charging. A small orange LED inside the case will light up when charging, and dim when charging is complete. Charging from empty to full takes around 3.5 hours. The remote has overcharge protection -- leaving the device plugged in once full is fine.
 
 ![Base Opened](/starter_indicator_docs/assets/switch_usb_remote.png)
 
