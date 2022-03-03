@@ -30,7 +30,7 @@ Remote indicator is off in this state.
 
 # Purple
 
-Indicates that a state was sent, but not acknowledged by the remote. This typically means the remote batteries have died, or that the remote is currently programmed as a [secondary remote](/starter_indicator_docs/multiple_remotes).
+Indicates that a state was sent, but not acknowledged by the remote. This typically means the remote batteries have died, or that the remote is currently programmed as a [secondary remote](/starter_indicator_docs/configuration).
 
 Remote indicator is unknown in this state.
 
