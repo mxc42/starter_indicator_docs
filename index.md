@@ -18,4 +18,4 @@ The Starter's Indicator is used by timers who use FinishLynx to communicate with
 
 # Motivation
 
-Morgan has been timing track meets since he was 9 years old, and has never been satisfied with existing options for armed indication, especially when timing at tracks without permanent solutions already in place. After completing a Computer Engineering degree decided an easily transportable, wireless, low setup indicator would be worth building.
+Morgan has been timing track meets since he was 9 years old, and has never been satisfied with existing options for armed indication, especially when timing at tracks without permanent solutions already in place. After completing a Computer Engineering degree he decided an easily transportable, wireless, low setup indicator would be worth building.
