@@ -10,7 +10,7 @@ The transmitter consists of an LED, micro usb port, and antenna.
 
 Before plugging the Transmitter in, ensure the antenna is attached. Never supply power to the device without the antenna attached, as this can damage the radio module.
 
-The LED is an indicator for the timer. Further explanation can be found [here](/transmitter).
+The LED is an indicator for the timer. Further explanation can be found [here](/starter_indicator_docs/transmitter).
 
 # Remote
 
@@ -18,7 +18,7 @@ The remote consists of an LED, flip indicator, power switch, and micro usb port.
 
 The micro USB port is used for charging. When fully charged, the device should last on battery for around 90 hours.
 
-The device is off when the power switch is closest to the exterior, and on when the switch is closest to the micro USB port. When turning the device on, the LED should flash to indicate the device is on. Further explanation can be found [here](/remote).
+The device is off when the power switch is closest to the exterior, and on when the switch is closest to the micro USB port. When turning the device on, the LED should flash to indicate the device is on. Further explanation can be found [here](/starter_indicator_docs/remote).
 
 # Computer
 
