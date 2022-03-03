@@ -1,8 +1,14 @@
 ---
 layout: page
-title: "Multiple Remotes"
-permalink: /multiple_remotes/
+title: "Configuration"
+permalink: /configuration/
 ---
+
+## Channels
+
+There are 4 available channels -- 0, 1, 2, 3. In order for a system to function, all devices [base station + remote(s)] must be on the same channel. Up to 4 individual systems can be used at once if they are all on seperate channels. This is especially helpful if multiple timed events are held at once.
+
+## Multiple Remotes
 
 You may use multiple remotes with one base station. This can be useful if you have multiple starters. In this configuration, you should have exactly one remote configured as a primary remote, followed by any number of secondary remotes.
 
@@ -18,6 +24,6 @@ Unlike a primary remote, a secondary remote is not required for a complete syste
 
 Secondary remotes can be identified by a blue flash on the indicator LED on start up.
 
-# Changing Remote Configuration
+## Changing Configuration
 
-Primary and secondary remotes have identical hardware, and can be flashed to either configuration. [Contact Morgan](mailto:morgandavidhunter@gmail.com) for more information.
+Channels are controlled via software -- any base or remote can be flashed to another channel. Additionally, primary and secondary remotes have identical hardware, and can be flashed to either configuration. [Contact Morgan](mailto:morgandavidhunter@gmail.com) for more information.
