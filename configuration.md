@@ -22,7 +22,7 @@ Primary remotes can be identified by a red flash on start up.
 
 Unlike a primary remote, a secondary remote is not required for a complete system. You can also have as many as you wish on one system -- adding more does not in anyway change the effectiveness of other remotes, as secondary remotes only listen to the base without talking back. For this reason, if you try to use a base with only a secondary remote, the base will assume no connection and display a purple LED.
 
-Secondary remotes can be identified by a blue flash on the indicator LED on start up.
+Secondary remotes can be identified by a green flash on the indicator LED on start up.
 
 ## Changing Configuration
 
