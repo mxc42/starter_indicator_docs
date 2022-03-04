@@ -18,6 +18,6 @@ The remote is equipped with a battery that gives around 90 hours of runtime. A p
 
 ## Power On
 
-When powering on a remote, the indicators should flash. This informs you the device is on and has power. If the battery is low, a blue flash will follow the initial boot flash. Afterwards, the remote will display the current state of the transmitter. By default, this flash is red.
+When powering on a remote, the indicators will pulse on for one second.  By default, this pulse is red. This informs you the device is on and has power. If the battery is low, the indicator LED will flash blue twice during the pulse. After the pulse, the remote will display the current state of the transmitter.
 
-If the remote flashes green on startup, it is currently configured as a secondary remote. This is defined in [Multiple Remotes](/starter_indicator_docs/configuration)
+If the remote pulses green on startup, it is currently configured as a secondary remote. This is defined in [Multiple Remotes](/starter_indicator_docs/configuration)

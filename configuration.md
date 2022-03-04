@@ -16,7 +16,7 @@ You may use multiple remotes with one base station. This can be useful if you ha
 
 One primary remote is needed for each setup. It is the only configuration that sends acknowledgments to the base. Without a primary remote, the base will think no remotes are receiving its broadcasts. The primary remote is also the only configuration that will send battery low status to the base station.
 
-Primary remotes can be identified by a red flash on start up.
+Primary remotes can be identified by a red flash on the indicator LED on start up.
 
 # Secondary Remote(s)
 
