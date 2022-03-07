@@ -26,7 +26,7 @@ To operate, use a micro USB cable to connect the base to the computer used for t
 
 Download [simple_redlight.lss](simple_redlight.lss) to your system's Lynx directory.
 
-Once you have the lss file copied and the device shows up in Device Manager, open FinishLynx. If FinishLynx was running before attaching the device, you must close and reopen FinishLynx. Create a new scoreboard under the Scoreboard>Options menus in FinishLynx.  Restart FinishLynx after creating and setting up the scoreboard.
+Once you have the lss file copied and the device shows up in Device Manager, open FinishLynx. If FinishLynx was running before attaching the device, you must close and reopen FinishLynx. Create a new scoreboard under the Scoreboard>Options menus in FinishLynx.
 
 Scoreboard settings should use the COM port corresponding to the device as shown in Device Manager. 
 
@@ -43,3 +43,4 @@ Pause Time: 3.0  Offset: 0.000
 
 Results: Off
 ```
+Restart FinishLynx after creating and setting up the scoreboard.
